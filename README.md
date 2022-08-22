@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/101137700/181667608-df9f2829-8c87-43fb-a147-774f942b734e.png" width="50"> <img src="https://user-images.githubusercontent.com/101137700/181668163-8e2e28e1-b464-465b-a1a3-29bb096f56ff.png" width="50"> <img src="https://user-images.githubusercontent.com/101137700/181668354-3954e73d-4258-4bb6-922e-7c3aa4bbca7d.png" width="50"> <img src="https://user-images.githubusercontent.com/101137700/181668486-649e7cf7-8af9-4e7e-a9fd-948a43a31e4b.png" width="50">
-![](https://sm-us.nos-eastchina1.126.net/assets/news/content/20200208/d1519130ca25cff0724bed3c9b40b195.0x1920x1080.png)
+![](/images/AmazonVineBanner.png)
 
 [Amazon Vine](https://en.wikipedia.org/wiki/Amazon_Vine) is an Amazon program that wrassles up trustworthy reviewers to provide reviews to companies who pay a fee.
 
