@@ -20,6 +20,8 @@ Of the [possible datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index
 
 ### Reviewers
 ![dataframe screenshot](./images/totalPaidReviewers.png)
+
+
 As one can see, there are literally no Vine reviewers for this dataset so it would be impossible to determine if there was a bias in 5 star reviews with vine reviewers.  More data would be needed, preferably actual participants who have at least 20 reviews under their belt.
 
 ### Further cleaning of data
@@ -27,6 +29,8 @@ From consideration, we removed those reviews where they had less than 20 votes a
 
 ### 5-✪ reviews
 Since there were literally no Vine reviews in this dataset, we could only see the non-participant input and of all the reviews that had 5 stars. Here is a breakdown of the reviews:
+
+
 ![star-reviews](./images/ReviewBreakdown.png)
 
 Since we had 1685 reviews in total, the percentage of 5 star reviews was (631 / 1685 * 100) 37.45%
